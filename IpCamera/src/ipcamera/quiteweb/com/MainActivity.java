@@ -1,3 +1,7 @@
+/*
+ * Test Google Code 11:11 PM 15-03-2014
+ * */
+
 package ipcamera.quiteweb.com;
 
 import android.os.Bundle;
@@ -10,6 +14,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        int a = 100;
     }
 
 
