@@ -3,7 +3,7 @@ package ipcamera.quiteweb.com;
  * 
  * test proxy
  * 
- * 
+ * google gode edit
  * */
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
